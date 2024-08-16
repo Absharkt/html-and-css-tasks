@@ -1,0 +1,12 @@
+.box {
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(223, 189, 148);
+}
+
+.content {
+    width: 300px;
+    height: 200px;
+    background-color: darkorchid;
+    
+}

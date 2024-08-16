@@ -1,0 +1,19 @@
+.box {
+    height: 33vh;
+    width: 100%;
+    display: flex;
+    margin: 10px 0;
+
+}
+
+.left {
+    height: 33vh;
+    width: 50%;
+    background-color: blue;
+}
+
+.right {
+    background-color: aquamarine;
+    height: 33vh;
+    width: 50%;
+}
